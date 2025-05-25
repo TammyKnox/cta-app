@@ -1,0 +1,22 @@
+.routeCard{
+    padding: 1em;
+    max-width: 500px;
+    text-align:center;
+    margin-top:1em;
+    border-radius: 25px;
+}
+
+.routeCard > h2{
+    border-bottom: 1px solid #fff;
+}
+
+.routeCard > p{
+    font-weight: 700;
+    color:#000;
+}
+
+.routeCard > a{
+    color:#000;
+    text-decoration: underline;
+    font-weight: 300;
+}
